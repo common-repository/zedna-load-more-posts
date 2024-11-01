@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zedna Load more posts\n"
+"POT-Creation-Date: 2019-09-05 13:07-0700\n"
+"PO-Revision-Date: 2019-09-05 13:15-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: zedna-load-more-posts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: zedna-load-more-posts.php:77
+msgid "Load more posts settings page"
+msgstr "Load more posts nastavení"
+
+#: zedna-load-more-posts.php:77 zedna-load-more-posts.php:99
+#: zedna-load-more-posts.php:128
+msgid "Load more posts"
+msgstr "Načíst více"
+
+#: zedna-load-more-posts.php:100 zedna-load-more-posts.php:132
+msgid "Loading posts..."
+msgstr "Načítám příspěvky..."
+
+#: zedna-load-more-posts.php:101 zedna-load-more-posts.php:136
+msgid "No more posts to load"
+msgstr "Žádné další příspěvky k načtení"
+
+#: zedna-load-more-posts.php:104
+msgid "Zedna load more posts settings"
+msgstr "Zedna load more posts nastavení"
+
+#: zedna-load-more-posts.php:110
+msgid "Posts parent container"
+msgstr "Nadřazený kontejner článků"
+
+#: zedna-load-more-posts.php:112
+msgid "e.g. \"#content\""
+msgstr "např. \"#content\""
+
+#: zedna-load-more-posts.php:115
+msgid "Pagination container"
+msgstr "Kontejner stránkování"
+
+#: zedna-load-more-posts.php:117
+msgid "e.g. \".pagination\""
+msgstr "např. \". stránkování\""
+
+#: zedna-load-more-posts.php:120
+msgid "Post container"
+msgstr "Kontejner článku"
+
+#: zedna-load-more-posts.php:122
+msgid "container of article in loop, usually \"article\""
+msgstr "opakující se kontejner článku, obvykle “article”"
+
+#: zedna-load-more-posts.php:125
+msgid "Custom text"
+msgstr "Vlastní text"
+
+#: zedna-load-more-posts.php:143
+msgid "If you like this plugin, please donate us for faster upgrade"
+msgstr "Pokud se vám plugin líbí, můžete nám přispět na další vývoj"
+
+#. Plugin Name of the plugin/theme
+msgid "Zedna Load more posts"
+msgstr "Zedna Load more posts"
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/zedna#content-plugins"
+msgstr "https://profiles.wordpress.org/zedna#content-plugins"
+
+#. Description of the plugin/theme
+msgid ""
+"Load more posts on the page. Wordpress must have set <a href=\"options-"
+"permalink.php\">nice url</a> to <strong>Post name</strong>."
+msgstr ""
+"Načítá další příspěvky na stránce. WordPress musí mít nastaveny <a href="
+"\"options-permalink.php\">hezké url</a> na <strong>Název příspěvku</"
+"strong>."
+
+#. Author of the plugin/theme
+msgid "Radek Mezulanik"
+msgstr "Radek Mezuláník"
+
+#. Author URI of the plugin/theme
+msgid "http://mezulanik.cz"
+msgstr "http://mezulanik.cz"
